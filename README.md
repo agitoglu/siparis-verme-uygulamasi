@@ -6,7 +6,10 @@
 - Ömer Faruk Agitoğlu - 132230  
 
 ---
+## Tanıtım Videosu
+https://youtu.be/Crtf1K_mDnA
 
+---
 ## Projenin Amacı
 Bu mobil uygulama, restoran müşterilerinin personel ile gereksiz etkileşimleri en aza indirerek sipariş verme, hesap görüntüleme ve personeli değerlendirme gibi işlemleri kolayca yapabilmelerini sağlamaktadır. Ayrıca, restoran yöneticileri için menü, sipariş ve personel yönetimini etkin bir şekilde gerçekleştirebilecekleri bir platform sunar.
 
