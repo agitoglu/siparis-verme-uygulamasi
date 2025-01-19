@@ -2,8 +2,8 @@
 
 ## Katkı Sağlayanlar
 - Mehmet Mıdıkoğlu - 132230050  
-- Ahmet Çelik - 132230  
-- Ömer Faruk Agitoğlu - 132230  
+- Ahmet Çelik - 132230037  
+- Ömer Faruk Agitoğlu - 132230018  
 
 ---
 ## Tanıtım Videosu
