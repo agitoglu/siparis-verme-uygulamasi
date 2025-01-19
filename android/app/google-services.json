@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257908888395",
+    "project_id": "siparis-uygulamasi-aa507",
+    "storage_bucket": "siparis-uygulamasi-aa507.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257908888395:android:8c76776c3e8513f2c10ece",
+        "android_client_info": {
+          "package_name": "com.example.siparis_verme_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8L7a2PPtOZ2kaGDHEFnCGJhbB2Q7v5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
